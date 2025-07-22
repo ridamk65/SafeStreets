@@ -1,6 +1,7 @@
 # 🚨 SafeStreets
 
-SafeStreets is a cutting-edge mobile application focused on **women's safety** in public spaces. It combines AI, blockchain, and real-time technologies to provide smart alerts, route suggestions, evidence logging, and community support.
+SafeStreets is a cutting-edge mobile application focused on **wom'
+en's safety** in public spaces. It combines AI, blockchain, and real-time technologies to provide smart alerts, route suggestions, evidence logging, and community support.
 
 ---
 
